@@ -3,7 +3,7 @@ Hi there guest :wave: <br>
 I am **Jackie**. :technologist: <br>
 This account contains my academic projects and use to demonstrate my skill. Please take a look of it. :raised_hands:
 
-**Highlighted Project**
+**Highlight Project**
 - @8bitDarkSouls (Software Development Practices)
 - @ScannerApp (R&D Project)
 - @typist95616/cise_ass1b (Contemporary Issues in Software Engineering)

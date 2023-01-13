@@ -10,8 +10,9 @@ This account contains my academic projects and use to demonstrate my skill. Plea
 
 I am currently studying Python, Java Spring, React
 
+Portfolio: https://jackielai-test.web.app/ <br>
+
 Contact me:<br>
-:file_folder: https://jackielai-test.web.app/ <br>
 :briefcase: www.linkedin.com/in/jackie-tin-lok-lai-3b2813228 <br>
 :envelope: jackielai.working@gmail.com <br>
 :octocat: https://github.com/jackielai1205
